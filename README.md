@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manishesri
 - 👀 I’m interested in Coding and Learning
-- 🌱 I’m currently learning Django and NodeJS
+- 🌱 I’m currently learning Django.
 - 💞️ I’m looking to collaborate on GIS Project
 
 <!---
